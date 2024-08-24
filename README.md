@@ -1,4 +1,4 @@
-#Pet Adoption Game
+###Pet Adoption Game
 Introduction
 The Pet Adoption Game is a console-based simulation that lets users experience the joy of adopting and taking care of a virtual pet. In this game, users can adopt a pet, feed it, play with it, and monitor its well-being. The game tracks the pet's hunger and happiness levels, and it will end if these levels drop to critical values.
 
